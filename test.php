@@ -1,3 +1,3 @@
 <?php
 
-echo "hello git 0710";
+echo "test php";
